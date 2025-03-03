@@ -1,0 +1,5 @@
+Task 1 :  Create bar chart or histogram  to visualize the distribution of a categorical or continuous variable, such as  distribution  of ages or gender in population.
+Task 2 : Perform data cleaning  and exploratory data analysis(EDA) on dataset of your choice,such as Titanic dataset from kaggle .Explore the relationship between the variables and identify patterns and trends in the  data.
+Task 3 : Build the decision tree classsifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. 
+         Use dataset such as the bank marketing dataset from the UCI Machine Learning Repository.
+Task 4: Analyze the traffic accident data to identify pattern related to road condition, Weather, Time of day.Visualize the accident hotspot and contribution factor.
